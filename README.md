@@ -8,10 +8,6 @@
 
 ### CHAITHRA AJITH
 
-
-### Hosted Project Link
-[mention your project hosted link here]
-
 ### Project Description
 
 W.CARE is a low-costhardware system It identifies abnormal health patterns related to anemia, infections, and stress, providing early warnings to encourage timely medical consultation.
@@ -88,22 +84,7 @@ Buzzer: Positive to GPIO 18, Negative to GND.
 ---
 
 ## Project Documentation
-
-### For Software:
-
-#### Screenshots (Add at least 3)
-
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-
 #### Diagrams
-
-
----
 
 ### For Hardware:
 
@@ -196,3 +177,4 @@ This project is licensed under the MIT License n
 - MIT License (Permissive, widely used)
 
 Made with ❤️ at TinkerHub
+
