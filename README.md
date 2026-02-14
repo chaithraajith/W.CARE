@@ -89,27 +89,27 @@ Buzzer: Positive to GPIO 18, Negative to GND.
 ### For Hardware:
 
 #### Schematic & Circuit
+![1](https://github.com/user-attachments/assets/85910a04-e715-43dd-b952-161ed971ac4b)
 
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![2](https://github.com/user-attachments/assets/326d8fad-06ca-4cb8-82ff-3428a551d467)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
+<img width="1024" height="1024" alt="schematic" src="https://github.com/user-attachments/assets/4c2ecfda-2ae7-451d-9a0a-8fa9713d7d3a" />
+
 
 #### Build Photos
+![234](https://github.com/user-attachments/assets/341a8898-fc24-4115-bfef-fb8b231089fb)
 
-![Team](Add photo of your team here)
+components
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![2](https://github.com/user-attachments/assets/b975e03b-7a6e-4173-b8dd-ebe1b8396cd7)
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
----
+
+
+final![1](https://github.com/user-attachments/assets/3abf3b53-f1d8-4e4e-85bb-cbad617f86aa)
+
 
 
 ### For Hardware Projects:
@@ -177,4 +177,5 @@ This project is licensed under the MIT License n
 - MIT License (Permissive, widely used)
 
 Made with ❤️ at TinkerHub
+
 
